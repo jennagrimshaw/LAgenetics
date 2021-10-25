@@ -1,0 +1,20 @@
+This project analyzed genetic diversity and population structure for three bats (*Eptesicus fuscus*, *Myotis austroriparius*, and *M. septentrionalis*) in Louisiana.
+
+Programs used:
+1. AfterQC
+2. BWA & Samtools
+3. STACKS
+4. FastStructure & STRUCTURE
+5. StructureHarvester, Clumpp, & DISTRUCT
+6. R
+
+R packages used:
+1. adegenet
+2. hierfstat
+3. factoextra
+4. dplyr
+5. argparse
+
+Supplementary Materials is included in this repository.  Scripts as well as NCBI submission data will be updated soon. 
+
+
